@@ -1,1 +1,4 @@
-# Roblox-World-Builders-2026
+# How to download your kid's Roblox Place
+1. Download Roblox Studio from https://create.roblox.com/landing
+2. Download the .rblx file in this Github Repo
+3. Open the .rbxl file in Roblox Studio
